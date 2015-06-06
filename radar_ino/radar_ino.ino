@@ -1,3 +1,6 @@
+#include <Ultrasonic.h>
+
+
 /*
  * Radar
  *
@@ -9,7 +12,7 @@
  */
 
 #include <Servo.h>
-#include <Ultrasonic.h>
+
 
 #define TRIGGER_PIN  12
 #define ECHO_PIN     13
